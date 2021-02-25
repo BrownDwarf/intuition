@@ -1,0 +1,31 @@
+name: intuition
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - bokeh
+  - jupyter
+  - pandas
+  - astroquery
+  - astropy
+  - beautifulsoup4
+  - requests
+  - tqdm
+  - celerite
+  - ipython
+  - seaborn
+  - h5py
+  - scikit-learn
+  - scikit-image
+  - astroplan
+  - pytest
+  - pip
+  - pip:
+      - twisted
+      - mkl-random
+      - emcee
+      - corner
