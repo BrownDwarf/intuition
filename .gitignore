@@ -131,3 +131,6 @@ dmypy.json
 
 # Custom to this project
 models/spectra
+
+# Direnv.net automatically loads your conda environment
+.envrc #
