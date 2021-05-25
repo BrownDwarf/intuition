@@ -134,3 +134,8 @@ models/spectra
 
 # Direnv.net automatically loads your conda environment
 .envrc
+
+# ignore .DS_Store
+
+.DS_Store
+
