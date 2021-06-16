@@ -1,0 +1,28 @@
+name: intuition3p7
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - bokeh
+  - jupyter
+  - pandas
+  - astroquery
+  - astropy
+  - beautifulsoup4
+  - requests
+  - tqdm
+  - ipython
+  - seaborn
+  - h5py
+  - scikit-learn
+  - scikit-image
+  - pytest
+  - pip
+  - pip:
+      - twisted
+      - emcee
+      - corner
